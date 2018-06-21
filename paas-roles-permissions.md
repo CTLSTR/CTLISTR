@@ -30,6 +30,11 @@ The following window appears on the screen where the Admin can assign roles to t
 																																																			![Rp 3](/uploads/roles/rp-3.png "Rp 3")
 3.	Base on the option selected from the Application dropdown list, the Role field is populated. For example: Select ECS to populate Roles mapped to the ECS application.
      ![Rp 5](/uploads/rp-5.png "Rp 5")
+4.	Select the Role to be assigned from the list of roles.
+![Rp 6](/uploads/rp-6.png "Rp 6")
+Note: To select multiple Roles, Press and hold the Ctrl key while selecting multiple roles from the list of options.
+5.	Enter Employee Number or Employee Name in the Employee no. / Employee Name field to assign roles.
+
 
 
 
