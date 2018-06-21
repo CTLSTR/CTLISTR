@@ -17,4 +17,6 @@ d.	ECS Admin.
 3.	Click Search.
 The screenshot below displays the search result based on the selected Search criteria.
 
+![Rp 17](/uploads/rp-17.png "Rp 17")
+
 
