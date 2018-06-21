@@ -10,4 +10,10 @@ PAAS Roles & Permissions is an application that will enable PAAS Administrators 
 PAAS Administrators will login to the user interface and setup roles, user role mappings for all PAAS applications viz. ECS, Investment Declaration, EMS, E-Loan PUA, CTC Reimbursement, Payslips, Reimbursement Slips, PIS, Investment Submission, and H2H.
                                                       1.	This page displays information about PAAS - Roles and Permissions portal.
                                                             URL: https://passrolessit.airtel.com/pages/default.aspx
+																														![Rp 1](/uploads/rp-1.png "Rp 1")
+																												2.	Roles and Permissions page has two sections:
+																															a.	Search (Existing Role Assignments)
+																															b.	Assign Roles
+																															![Rp 2](/uploads/rp-2.png "Rp 2")
+
 																														
