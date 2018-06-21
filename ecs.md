@@ -1,5 +1,3 @@
-
-
 ### **ECS**
 
 ![Rp 15](/uploads/rp-15.png "Rp 15")
