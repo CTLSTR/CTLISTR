@@ -17,3 +17,15 @@ Employees can be searched based on the Application and the Role they carry. This
 6.	E-Loan
 7.	Pay and Reimbursement Slips
 
+
+### All
+
+![Rp 12](/uploads/rp-12.png "Rp 12")
+This search option lists out all the Application Users available in the PAAS application irrespective of their Role.
+To initiate Search:
+1.	Select All from the Application dropdown list.
+2.	Click Search.
+Note: The Role dropdown list will be set to All as default for this search option.
+The screenshot below displays the search result based on the selected Search criteria.
+![Rp 13](/uploads/rp-13.png "Rp 13")
+![Rp 14](/uploads/rp-14.png "Rp 14")
