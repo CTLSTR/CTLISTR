@@ -26,6 +26,9 @@ To initiate Search:
 2.	Click Search.
 Note: The Role dropdown list will be set to All as default for this search option.
 The screenshot below displays the search result based on the selected Search criteria.
-
+![Rp 13](/uploads/rp-13.png "Rp 13")
+![Rp 14](/uploads/rp-14.png "Rp 14")
 
 ECS options lists out all the Application Users registered under ECS Active HR, ECS LE Approver and ECS Admin.
+
+![Rp 15](/uploads/rp-15.png "Rp 15")
