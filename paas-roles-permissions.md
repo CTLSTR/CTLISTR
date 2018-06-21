@@ -47,6 +47,9 @@ Note: Similar Roles can be assigned to multiple employees provided they have bee
 ![Rp 9](/uploads/rp-9.png "Rp 9")
 The Role Successfully Allotted message confirms that the desired roles have been assigned to the selected employee.
 An Employee who has already been assigned a Role cannot be assigned with the same role again.
+![Rp 10](/uploads/rp-10.png "Rp 10")
+The error message as shown above will be displayed informing the Admin that the selected User has already been assigned with the Role.
+
 
 
 
