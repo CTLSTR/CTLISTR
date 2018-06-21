@@ -41,6 +41,11 @@ Note:
 •	The application displays a list of employee names as a suggestion based on the characters/ numbers entered in the Employees no. / Employee Names field.
 •	The Application will not display an employee whose details have not been received from Fusion.
 6.	Click on Employee Name to select the employee for assigning the Role.
+![Rp 8](/uploads/rp-8.png "Rp 8")
+7.	Click Add to assign the selected Role/s to the employee listed in the Employees no. / Employee Names field.
+Note: Similar Roles can be assigned to multiple employees provided they have been selected and listed in the Employee no. / Employee Name field.
+
+
 
 
 
