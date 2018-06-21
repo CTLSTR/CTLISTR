@@ -15,5 +15,11 @@ PAAS Administrators will login to the user interface and setup roles, user role 
 																															a.	Search (Existing Role Assignments)
 																															b.	Assign Roles
 																															![Rp 2](/uploads/rp-2.png "Rp 2")
+The Assign Roles option in the PAAS – Roles and Permissions application helps the Admin and Super Admin in Assigning roles to the application user.
+To Assign Roles to Application Users:
+1.	Click Assign Roles.
+The following window appears on the screen where the Admin can assign roles to the application user.
+
+
 
 																														
