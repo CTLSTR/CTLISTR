@@ -44,6 +44,10 @@ Note:
 ![Rp 8](/uploads/rp-8.png "Rp 8")
 7.	Click Add to assign the selected Role/s to the employee listed in the Employees no. / Employee Names field.
 Note: Similar Roles can be assigned to multiple employees provided they have been selected and listed in the Employee no. / Employee Name field.
+![Rp 9](/uploads/rp-9.png "Rp 9")
+The Role Successfully Allotted message confirms that the desired roles have been assigned to the selected employee.
+An Employee who has already been assigned a Role cannot be assigned with the same role again.
+
 
 
 
