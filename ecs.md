@@ -1,5 +1,4 @@
-<!-- TITLE: Ecs -->
-<!-- SUBTITLE: A quick summary of Ecs -->
+
 
 ### **ECS**
 
