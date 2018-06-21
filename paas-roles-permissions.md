@@ -34,7 +34,13 @@ The following window appears on the screen where the Admin can assign roles to t
 ![Rp 6](/uploads/rp-6.png "Rp 6")
 Note: To select multiple Roles, Press and hold the Ctrl key while selecting multiple roles from the list of options.
 5.	Enter Employee Number or Employee Name in the Employee no. / Employee Name field to assign roles.
-
+![Rp 7](/uploads/rp-7.png "Rp 7")
+Note:
+•	The Employees no. / Employee Names field can hold multiple entries for assigning roles.
+•	The Admin can select the employee by entering the Employees Number or Employee Name.
+•	The application displays a list of employee names as a suggestion based on the characters/ numbers entered in the Employees no. / Employee Names field.
+•	The Application will not display an employee whose details have not been received from Fusion.
+6.	Click on Employee Name to select the employee for assigning the Role.
 
 
 
