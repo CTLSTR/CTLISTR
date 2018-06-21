@@ -13,3 +13,6 @@ Note:
 •	The Application will not display an employee whose details have not been received from Fusion.
 2.	Select the employee name from the suggestion list
 ![Rp 26](/uploads/rp-26.png "Rp 26")
+3.	Click Search.
+The screenshot below displays the search result based on the selected Search criteria.
+![Rp 27](/uploads/rp-27.png "Rp 27")
