@@ -19,6 +19,16 @@ The Assign Roles option in the PAAS – Roles and Permissions application helps 
 To Assign Roles to Application Users:
 1.	Click Assign Roles.
 The following window appears on the screen where the Admin can assign roles to the application user.
+![Rp 3](/uploads/rp-3.png "Rp 3")
+2.	From the Application dropdown list, select one of the following Applications.
+			a.	ECS
+			b.	Investment Declaration
+			c.	PIS
+			d.	EMS
+			e.	E-Loan
+			f.	Pay and Reimbursement Slips
+![Rp 3](/uploads/roles/rp-3.png "Rp 3")
+
 
 
 
